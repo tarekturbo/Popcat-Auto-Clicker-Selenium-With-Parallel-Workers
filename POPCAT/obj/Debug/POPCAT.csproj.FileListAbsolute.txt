@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\POPCAT.exe.config
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\POPCAT.exe
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\POPCAT.pdb
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.Properties.Resources.resources
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.csproj.GenerateResource.cache
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.exe
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.pdb
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\POPCAT\POPCAT\bin\Debug\WebDriver.Support.dll
+C:\Users\User\source\repos\POPCAT\POPCAT\obj\Debug\POPCAT.Main.resources
